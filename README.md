@@ -4,8 +4,8 @@ I’m a second-year student at BSUIR, studying artificial intelligence and activ
 
 ### 🛠️ My Skills
 
-- **Programming Languages:** C++, Python, C
-- **Technologies & Tools:** Git, OSTIS, VS Code, CMake
+- **Programming Languages:** C++, C, Python
+- **Technologies & Tools:** Git, VS Code, CMake, Google Test, Doxygen
 - **Core Approaches & Interests:** artificial intelligence, knowledge representation and processing, cognitive technologies, and intelligent system development
 
 ### 🔭 What I’m Currently Working On
