@@ -1,4 +1,4 @@
-### 👋 Hi! I’m Vanya
+### 👋 Hi! I’m Ivan
 
 I’m a second-year student at BSUIR, studying artificial intelligence and actively developing my skills in AI. I’m passionate about software development, solving complex challenges, and creating efficient algorithms. Here, I share my projects and programming experiments.
 
