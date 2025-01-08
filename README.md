@@ -4,9 +4,8 @@ I’m a second-year student at BSUIR, passionate about AI and software developme
 
 ### 🛠️ Skills
 
-- **Programming Languages:** C++, C, Python
-- **Tools & Technologies:** Git, VS Code, CMake, Google Test, Doxygen
-- **Interests:** AI, intelligent systems, system programming
+- **Programming Languages:** C++, C, Java, Python  
+- **Interests:** Software Development, Systems Programming, Software Architecture Design, Artificial Intelligence and Multi-Agent Systems
 
 ### 📈 Top Languages
 
