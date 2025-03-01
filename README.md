@@ -38,7 +38,10 @@ Passionate about solving complex problems, contributing to open-source, and cont
 - Explore **Rust** for low-level solutions
 - Practice in Microservices
 
----
+## 🎓 Education  
+**Belarusian State University of Informatics and Radioelectronics (BSUIR)** 
+
+📅 2023–2027 | 💻 Artificial intelligence (Faculty of Information Technologies and Control)
 
 ## 📬 Connect  
 [![Email](https://img.shields.io/badge/Email-iromanchuk06@gmail.com-EA4335?logo=gmail)](mailto:iromanchuk06@gmail.com)  
