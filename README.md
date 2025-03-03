@@ -20,7 +20,7 @@ Passionate about solving complex problems, contributing to open-source, and cont
 
 - **Java**  
   ![Java](https://img.shields.io/badge/Java-Spring%20Ecosystem-ED8B00?logo=openjdk)  
-  - **Backend**: Spring Boot (Web/Data JPA/Security), Micronaut  
+  - **Backend**: Spring Boot (Web/Data JPA/Security)  
   - **ORM**: Hibernate, JPA Criteria API, QueryDSL  
   - **Integration**: Kafka (Basic), Redis Caching, MapStruct  
   - **Cloud**: Dockerized Microservices, RESTful API Design  
