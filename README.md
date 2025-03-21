@@ -4,6 +4,8 @@ Software Engineer | Backend Developer | BSUIR Student
 Hi, I`m developer with a good foundation in **C++** and **Java**, focusing on building scalable and efficient systems.  
 Passionate about solving complex problems, contributing to open-source, and continuously learning new technologies.  
 
+---
+
 ### 🛠️ Technical Expertise  
 
 #### Top Languages
@@ -33,10 +35,25 @@ Passionate about solving complex problems, contributing to open-source, and cont
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle)  
 - **Testing**: JUnit · Mockito · Pytest · GoogleTests · 95%+ coverage  
 
-## 🚀 Career Goals  
-- Deepen expertise in **C/C++** (embedded/systems programming)  
-- Explore **Rust** for low-level solutions
-- Practice in Microservices
+---
+
+### 🚀 Projects & Achievements  
+- **OSTIS Contribution**  
+  Open-source semantic networks/knowledge representation tool.  
+
+- **Space Hackathon 2023 (3rd Place)**  
+  Led team as technical lead and speaker.  
+
+- **Volunteer Platform**  
+  Spring Boot system for managing volunteer activities.  
+
+- **HTTP/2 Server**  
+  High-performance C++ server with WebSocket support.  
+
+- **Research Paper**  
+  Published: ["Semantic Networks for Modeling Human Consciousness"](https://libeldoc.bsuir.by/handle/123456789/56892).  
+
+---
 
 ## 🎓 Education  
 **Belarusian State University of Informatics and Radioelectronics (BSUIR)** 
